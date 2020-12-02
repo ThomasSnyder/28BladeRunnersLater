@@ -1,0 +1,79 @@
+.. 28BladeRunnerslater documentation master file, created by
+   sphinx-quickstart on Mon Nov 30 13:36:17 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to 28BladeRunnerslater's documentation!
+
+These are two reviews from Tom Snyder
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+sample_chapter/index
+index.rst
+
+
+
+This is A Review
+================
+
+Blade Runner
+
+28 Days Later
+
+These are the reviews 
+=========================
+
+Blade Runner: The Final Cut
+---------------------------
+
+'Blade Runner The Final Cut Trailer'
+
+.. _https://www.youtube.com/watch?v=qoEyZoOTtss
+
+"Bright Lights, Explorations of Identity, and Androids"
+-------------------------------------------------------
+
+..image:: bladerunner.jpg
+
+.. figure:: Blade Runner poster curtosy of Warner Bros. Pictures
+    :width: 50%
+
+This director’s cut of the 1982 sci-fi class *“Blade Runner”* fixes a lot of issues that the original release had. Being based on the Philip K. Dick novel *“Do Androids Dream of Electric Sheep”*. Having cut out the notorious voice over segments from Harrison Ford, color correcting the scenes to give it the correct feeling of a cold dystopia, the remastering of the original ending of the film being spliced back in after studio interference, as well as an overhaul both visually and auditory. 
+	Being directed by Ridley Scott (Alien, The Martian, Hannibal) The film takes place in the neo noir future of November 2019. Bladerunner follows the story of Rick Deckard (Harrison Ford), a former officer known as a Bladerunner in Los Angeles who specializes in the hunting and retiring of synthetic humanoid androids known as replicants. Rick is brought back into his old job after 6 replicants come to earth in search of a way to extend their 4 year lifespan. Among the Replicants is their leader Roy Batty (Rutger Howard), a former combat model of Replicant who is relentless in his search for more life. Alongside Deckard is another Replicant named Rachel, who is unaware of her existence as a Replicant. 
+
+	A simple yet effective story, Blade Runner takes the viewer on a journey about expression and identity. The film is flooded with this sense of loneliness that all characters are haunted with. The soundtrack itself emphasizes this loneliness, being produced by the musician Vangelis. The whole film gives the viewer a sense of displacement as they watch Rick hunt and try to not only understand the humanity and motives of the Replicants who have illegally escaped to earth from an off world colony to extend their lives, but Rick must also struggle with himself and his quickly dissolving identity. The nexus of this internal search for meeting is from Deckard’s encounter with Racel, who is modeled after the niece of Eldon Tyrell (Joe Turkel), and given her memories. Out of context, that may sound strange, but given the story of the film as well as the electrifying chemistry between Ford and Young. Overall, this film is very deserving of the legacy it has. Ground breaking, revolutionary, and a trend setter for the cyberpunk aesthetic that is so prevalent to this day even. The movie really popularized what science fiction could be to a movie going audience. 
+The neo noir setting of 2019 Los Angeles has become a staple in the science fiction subgenre, the once idealized and romanticized future is now nothing more than a glossy reflection of the injustices that happen in our world to this day. Its grimy streets full of crime and suffering works in synergy for the empty desolator feeling the rest of the movie displays. You are unlikely to find a place in the movie with the exception of a few key scenes where you don’t feel this sense of decay ooze its way into your senses. The film employs a lot of environmental and subtle story telling, helping give the world a more lived in experience. And for the eagle eyed viewer, there is bound to be plenty of easter eggs for fans of the original novel. 
+Despite its poor reception when it came out in 1982 Blade Runner is a thought provoking, emotional exploration of modern day life, wrapped in a package of social inequality, identity, social collapse, and the downfall of late stage capitalism. Rutger Howard’s performance as the antagonistic rebel Roy batty steals the scene in any shot he is, the charisma and natural talent radiating from him like the glow of a neon sign. Blade Runner, despite being a sprawling future set in our now past is a timeless film, with many elements and illusions from different points in time, while some of the special effects do not hold up to modern day standards and there are some odd editing decisions and scenes where it is obvious that it is a stuntman in place of the actual actor, the practical effects of the film as well as the lighting and set design create a fully realized world that is all too familiar to our current one. 
+If you enjoy thoughtful science fiction, a mystery story, or something to make you look at yourself introspectively then question the state of your being, I highly recommend Blade Runner The Final Cut.
+
+============================================
+Blade Runner: The Final Cut 5 stars out of 5
+============================================
+
+28 Days Later
+-------------
+
+'28 Days Later Trailer'
+
+.. _https://www.youtube.com/watch?v=c7ynwAgQlDQ
+
+..image:: 28dayslater.jpg
+
+..figure:: 28 Days later poster curtosy of Fox Entertainment 
+	:width: 50%
+
+"The End is Extremely F*cking Nigh"
+-----------------------------------
+
+*28 Days Later* is more timely of a film than it should be, having been produced and released nearly 20 years ago amidst one of the greatest outbreaks of Foot in Mouth disease or in other terms Mad Cow Disease. This cinematic nightmare is the film that popularized the “running zombie” trope, and reinvigorated the subgenre, and redefined the rules of a zombie movie. 
+Directed by Danny Boyle (Trainspoting, 127 Hours, Slumdog Millionaire) brings forth a nightmarish version of events that can only be described as brutal. The film opens up on animal rights activists accidentally releasing an infected chimp from a laboratory in an attempt to rescue the simians. A scientist at the facility tries warning them that what they are doing will cause countless lives and they are messing with things that they don’t understand- only for them to follow through with the plan, open the cage and all subsequently be torn apart and infected by a zombified chimp. We then cut to a title card of the film which tells us it had been 28 days since that incident. 
+Jim (Cillian Murphy), a bicycle curious who was struck by a car on his way to deliver a package only to awake in an abandoned hospital amidst an epidemic. Some zombie fans may draw parallels between the Image comics series/AMC series The Walking Dead, though it should be noted that the original publishing for the comic was released only 4 months after the movie had premiered. Returning to Jim’s story, he explores an abandoned London, cars lay still like tombstones, there is garbage and fliers flying through the streets, missing person's posters litter walls and message boards. All seems lost. That is until Jim is attacked by this film’s version of zombies- hyper aggressive infected people suffering from a “Rage Virus”, which is contracted via blood and saliva like our traditional zombie. Though it should be noted that these people are still alive, they are capable of planning and thinking, and they act with hyper aggression. This is truly a far cry from our traditional zombie archetype. After a chase, Jim is rescued by Selena (Naomi Harris), and the two eventually meet Frank (Brendan Gleeson) and his daughter Hannah (Megan Burns). The four begin their journey to find a military outpost that holds “the answer to infection”. 
+This film will be daunting to most people, and with its age, a lot more of the tropes it uses will seem like cliches, despite being the first film to use them. Some of the editing as well will be off putting, and previously jagged for artistic effect. As well as the low resolution digital camera used to film most of the film, the editing from Chris Gill gives the movie a hazy dreamlike quality that makes the viewer question the state of the world we are in. There is provocative imagery, scenes which emphasize this feeling of catholic guilt and suffering that all the characters seem to be feeling. Though it should be noted this is by far nowhere close to being a religious film. Some of the subject matter will also be a hard pass for some viewers. The movie though gives a harrowing depiction of an epidemic ridden London, and makes people question their morality and the morality of people around them. Its themes of destruction and devastation are circumvented by the soft intimate moments of hope found throughout the film. The movie does touch on a lot of taboos and does not shy away from some aggressive territory. Blood is prevalent throughout the whole movie, as well as scenes of intense violence, and a scene of sexual assault/attempted assualt.
+I personally as a review will champion this film and the artistic intent with it, despite it being so timely since we ourselves are dealing with a pandemic and viral outbreak. If one doesn’t have much to do, and wants to scare themselves, there are worse films to watch.
+
+==========================
+28 Days Later 4.5 out of 5
+==========================
+
